@@ -1,2 +1,3 @@
 # css_loading
-Simple css loading , made for fun
+Simple css loading
+Made for fun with love
